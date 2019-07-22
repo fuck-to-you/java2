@@ -15,6 +15,9 @@ public class PromotionSecKill {
         return psId;
     }
 
+    public Long getPsId() {
+        return psId;
+    }
     public void setPsId(Long psId) {
         this.psId = psId;
     }
